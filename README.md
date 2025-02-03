@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `LibUV_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/JuliaLang/libuv.git (revision: `fa989b8e1cab7426e332236aaffcee89b7412843`)
+* git repository: https://github.com/JuliaLang/libuv.git (revision: `7837163ff8cce091bc934180e6434899eae1b015`)
 
 ## Platforms
 
