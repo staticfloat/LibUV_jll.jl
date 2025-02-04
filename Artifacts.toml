@@ -92,11 +92,11 @@ os = "linux"
     url = "https://github.com/staticfloat/LibUV_jll.jl/releases/download/LibUV-v2.0.1+21/LibUV.v2.0.1.i686-linux-musl.tar.gz"
 [[LibUV]]
 arch = "i686"
-git-tree-sha1 = "1e6999a39ea34bef7aebeef681b7dd9c73c0ad42"
+git-tree-sha1 = "6c38d704f146e6389483ea9664cba20a05550738"
 os = "windows"
 
     [[LibUV.download]]
-    sha256 = "cc554f210d512d8edf923ba763c9a98d2e7d14d2984a28dd1f3f17f20bc48ace"
+    sha256 = "e5795f83e3046723ae3cee0c2f462b60b77f265dfdeb058d928ea6582b103bd7"
     url = "https://github.com/staticfloat/LibUV_jll.jl/releases/download/LibUV-v2.0.1+21/LibUV.v2.0.1.i686-w64-mingw32.tar.gz"
 [[LibUV]]
 arch = "powerpc64le"
@@ -162,9 +162,9 @@ os = "freebsd"
     url = "https://github.com/staticfloat/LibUV_jll.jl/releases/download/LibUV-v2.0.1+21/LibUV.v2.0.1.x86_64-unknown-freebsd.tar.gz"
 [[LibUV]]
 arch = "x86_64"
-git-tree-sha1 = "5b84070f6e36297fd54d55b82146b7808a98c96a"
+git-tree-sha1 = "7063ceb89173a4f56981b49bc27d21778dd17c16"
 os = "windows"
 
     [[LibUV.download]]
-    sha256 = "84ae97b291798c4e62393acf6c2ec045ee5c1c2c5d4e664824d22c69c02664ff"
+    sha256 = "ff4b0724f2b01428bea7640d54a9c4ad7238d1b6b900fb7262b9cf4b6ad8f834"
     url = "https://github.com/staticfloat/LibUV_jll.jl/releases/download/LibUV-v2.0.1+21/LibUV.v2.0.1.x86_64-w64-mingw32.tar.gz"
